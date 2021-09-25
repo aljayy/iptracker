@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iptracker/static/css/main.fc10b49d.chunk.css",
+    "main.js": "/iptracker/static/js/main.dcd722da.chunk.js",
+    "main.js.map": "/iptracker/static/js/main.dcd722da.chunk.js.map",
+    "runtime-main.js": "/iptracker/static/js/runtime-main.5dc16c3a.js",
+    "runtime-main.js.map": "/iptracker/static/js/runtime-main.5dc16c3a.js.map",
+    "static/js/2.9d7d2248.chunk.js": "/iptracker/static/js/2.9d7d2248.chunk.js",
+    "static/js/2.9d7d2248.chunk.js.map": "/iptracker/static/js/2.9d7d2248.chunk.js.map",
+    "index.html": "/iptracker/index.html",
+    "static/css/main.fc10b49d.chunk.css.map": "/iptracker/static/css/main.fc10b49d.chunk.css.map",
+    "static/js/2.9d7d2248.chunk.js.LICENSE.txt": "/iptracker/static/js/2.9d7d2248.chunk.js.LICENSE.txt",
+    "static/media/icon-arrow.2eaaa5ee.svg": "/iptracker/static/media/icon-arrow.2eaaa5ee.svg",
+    "static/media/ip-data.module.css": "/iptracker/static/media/pattern-bg.a60a3c85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dc16c3a.js",
+    "static/js/2.9d7d2248.chunk.js",
+    "static/css/main.fc10b49d.chunk.css",
+    "static/js/main.dcd722da.chunk.js"
+  ]
+}
